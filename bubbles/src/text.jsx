@@ -1,0 +1,14 @@
+export const textArray = [
+	{
+		text: "Lorem ipsum dolor sit,",
+	},
+	{
+		text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et tellus quis felis tristique gravida quis sed ligula. Pellentesque luctus nec elit id efficitur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque ut laoreet turpis. Aenean in lorem neque. Aenean vitae sem placerat urna eleifend laoreet nec rutrum quam. Donec porta lacus eget libero tempor, eu congue tortor iaculis. In ultrices dolor ac nulla mattis, at tincidunt arcu fringilla. Praesent eu tellus diam. Nullam vestibulum, lorem sit amet fermentum laoreet, dolor metus placerat turpis, eu dignissim ipsum nisi at purus. Pellentesque varius auctor tellus eget luctus. Nulla ut tellus dictum, tempus ex at, bibendum metus. Donec in vulputate orci. Ut feugiat est sed finibus elementum. Vivamus lacus neque, ullamcorper sit amet magna convallis, efficitur congue tortor.",
+	},
+	{
+		text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et tellus quis felis tristique gravida quis sed ligula. Pellentesque luctus nec elit id efficitur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque ut laoreet turpis. Aenean in lorem neque. Aenean vitae sem placerat urna eleifend laoreet nec rutrum quam. Donec porta lacus eget libero tempor, eu congue tortor iaculis. In ultrices dolor ac nulla mattis, at tincidunt arcu fringilla. Praesent eu tellus diam. Nullam vestibulum, lorem sit amet fermentum laoreet, dolor metus placerat turpis, eu dignissim ipsum nisi at purus. Pellentesque varius auctor tellus eget luctus. Nulla ut tellus dictum, tempus ex at, bibendum metus. Donec in vulputate orci. Ut feugiat est sed finibus elementum. Vivamus lacus neque, ullamcorper sit amet magna convallis, efficitur congue tortor.",
+	},
+	{
+		text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et tellus quis felis tristique gravida quis sed ligula. Pellentesque luctus nec elit id efficitur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque ut laoreet turpis. Aenean in lorem neque. Aenean vitae sem placerat urna eleifend laoreet nec rutrum quam. Donec porta lacus eget libero tempor, eu congue tortor iaculis. In ultrices dolor ac nulla mattis, at tincidunt arcu fringilla. Praesent eu tellus diam. Nullam vestibulum, lorem sit amet fermentum laoreet, dolor metus placerat turpis, eu dignissim ipsum nisi at purus. Pellentesque varius auctor tellus eget luctus. Nulla ut tellus dictum, tempus ex at, bibendum metus. Donec in vulputate orci. Ut feugiat est sed finibus elementum. Vivamus lacus neque, ullamcorper sit amet magna convallis, efficitur congue tortor.",
+	},
+];
