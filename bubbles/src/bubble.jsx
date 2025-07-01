@@ -12,7 +12,7 @@ export default function Bubble({ text }) {
 	}
 
 	return (
-		<div className={`text-bubble ${showMore ? "expended" :""}`}>
+		<div className={"text-bubble"}>
 			<p>
 				{textContent}{" "}
 				{isLongText && (
